@@ -1,0 +1,35 @@
+Project proposal 
+
+1. title proposal 
+   "Locker Login System - Verifying TUPM ID and Password"
+   " University locker system"
+
+2. SCENARIO/BACKGROUND
+ BACKGROUND
+    - Lockers are commonly used on university campuses for students to safely store their personal
+      belongings. However, with an increasing number of students on campus, managing locker access 
+      and usage has become a difficult task. To address this issue, we propose implementing a locker 
+      login system that will verify students' TUPM ID and password before granting locker access.
+
+ PLACE TO IMPLEMENT
+    - We selected the university campus as the place of implementation of our "system locker".
+
+ CITE THE DEVICES TO BE UTILIZE
+     - "start=led_display.exe" EXAMPLE IN EMU8086
+        - It counts how often students enter their passwords incorrectly.
+
+ OPERATION
+     - Date and time operation
+     - input and output operation
+
+3. SPECIFIC OBJECTIVES 
+  - to create a simple login system for lockers that verifies a students' user ID and password.
+  - To accomplish the program within a certain time.
+  - to develop a well function program.
+  - share and disscuss a simple "locker system" for everyone.
+
+4. J0B DISTRIBUTION 
+  - Reseachers
+  - Developer/Programmer
+  - Testing/Quality assurance tester
+  - Moral support

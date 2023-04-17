@@ -1,0 +1,16 @@
+Purpose of your study:
+to provide individuals with the knowledge and skills necessary to identify, prevent, and respond to 
+cybersecurity threats. With the increasing prevalence of cyber attacks and data breaches, 
+cybersecurity has become a critical issue for individuals, organizations, and governments 
+around the world.
+
+What is the main purpose of cybersecurity:
+The goal of cybersecurity is to ensure the confidentiality, integrity, 
+and availability of information by preventing and mitigating cyber attacks and 
+other security incidents.
+
+why should we be aware on cybersecurity:
+We should be aware of cybersecurity because it affects almost every aspect of our lives in the digital age.
+
+What cybersecurity did u use?:
+User training and awareness: to educate such as how to recognize phishing emails and how to secure their devices and accounts.
